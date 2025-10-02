@@ -24,9 +24,9 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 
 ## 🛠️ Projects
 
-- **[Project Name 1](#)** – Brief description of your MERN/AI/ML project.
-- **[Project Name 2](#)** – Brief description of another project.
-- *(Add your project links and descriptions!)*
+- **[https://www.gatherguru.ca/](#)** 
+
+
 
 ---
 
